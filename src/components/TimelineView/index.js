@@ -19,7 +19,7 @@ class TimelineView extends Component {
       ),
     )
 
-    return {timelines}
+    return timelines
   }
 
   render() {
